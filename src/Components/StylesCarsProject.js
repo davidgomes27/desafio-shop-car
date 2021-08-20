@@ -104,3 +104,8 @@ export const BoxImgCar = Styled.div`
     align-items: center;
     height: 100%;
 `;
+
+export const BoxBPClear = Styled.div`
+    background-color: #e2e2e2;
+    cursor: pointer;
+`;
