@@ -60,7 +60,7 @@ export default class Home extends Component {
     return (
       <BodyPage>
         <div>
-          <h1>Lojas de carros!</h1>
+          <h1>Loja de carros</h1>
         </div>
 
         <Container>
@@ -144,7 +144,7 @@ export default class Home extends Component {
 
         <BoxBPClear>
           <div onClick={this.ClearList}>
-            <h2>Limpar lista</h2>
+            <h2>Limpar Carrinho</h2>
           </div>
         </BoxBPClear>
       </BodyPage>
